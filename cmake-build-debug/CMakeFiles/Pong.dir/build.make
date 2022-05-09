@@ -42,10 +42,10 @@ RM = "D:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\Program Files\JetBrains\Projekty\Pong"
+CMAKE_SOURCE_DIR = "D:\Program Files\GitHub Projects\Pong"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\Program Files\JetBrains\Projekty\Pong\cmake-build-debug"
+CMAKE_BINARY_DIR = "D:\Program Files\GitHub Projects\Pong\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Pong.dir/depend.make
@@ -59,44 +59,44 @@ include CMakeFiles/Pong.dir/flags.make
 CMakeFiles/Pong.dir/main.cpp.obj: CMakeFiles/Pong.dir/flags.make
 CMakeFiles/Pong.dir/main.cpp.obj: CMakeFiles/Pong.dir/includes_CXX.rsp
 CMakeFiles/Pong.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Program Files\JetBrains\Projekty\Pong\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Pong.dir/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Pong.dir\main.cpp.obj -c "D:\Program Files\JetBrains\Projekty\Pong\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Program Files\GitHub Projects\Pong\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Pong.dir/main.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Pong.dir\main.cpp.obj -c "D:\Program Files\GitHub Projects\Pong\main.cpp"
 
 CMakeFiles/Pong.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Pong.dir/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Program Files\JetBrains\Projekty\Pong\main.cpp" > CMakeFiles\Pong.dir\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Program Files\GitHub Projects\Pong\main.cpp" > CMakeFiles\Pong.dir\main.cpp.i
 
 CMakeFiles/Pong.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Pong.dir/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Program Files\JetBrains\Projekty\Pong\main.cpp" -o CMakeFiles\Pong.dir\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Program Files\GitHub Projects\Pong\main.cpp" -o CMakeFiles\Pong.dir\main.cpp.s
 
 CMakeFiles/Pong.dir/Paddle.cpp.obj: CMakeFiles/Pong.dir/flags.make
 CMakeFiles/Pong.dir/Paddle.cpp.obj: CMakeFiles/Pong.dir/includes_CXX.rsp
 CMakeFiles/Pong.dir/Paddle.cpp.obj: ../Paddle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Program Files\JetBrains\Projekty\Pong\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Pong.dir/Paddle.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Pong.dir\Paddle.cpp.obj -c "D:\Program Files\JetBrains\Projekty\Pong\Paddle.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Program Files\GitHub Projects\Pong\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Pong.dir/Paddle.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Pong.dir\Paddle.cpp.obj -c "D:\Program Files\GitHub Projects\Pong\Paddle.cpp"
 
 CMakeFiles/Pong.dir/Paddle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Pong.dir/Paddle.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Program Files\JetBrains\Projekty\Pong\Paddle.cpp" > CMakeFiles\Pong.dir\Paddle.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Program Files\GitHub Projects\Pong\Paddle.cpp" > CMakeFiles\Pong.dir\Paddle.cpp.i
 
 CMakeFiles/Pong.dir/Paddle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Pong.dir/Paddle.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Program Files\JetBrains\Projekty\Pong\Paddle.cpp" -o CMakeFiles\Pong.dir\Paddle.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Program Files\GitHub Projects\Pong\Paddle.cpp" -o CMakeFiles\Pong.dir\Paddle.cpp.s
 
 CMakeFiles/Pong.dir/Ball.cpp.obj: CMakeFiles/Pong.dir/flags.make
 CMakeFiles/Pong.dir/Ball.cpp.obj: CMakeFiles/Pong.dir/includes_CXX.rsp
 CMakeFiles/Pong.dir/Ball.cpp.obj: ../Ball.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Program Files\JetBrains\Projekty\Pong\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Pong.dir/Ball.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Pong.dir\Ball.cpp.obj -c "D:\Program Files\JetBrains\Projekty\Pong\Ball.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Program Files\GitHub Projects\Pong\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Pong.dir/Ball.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Pong.dir\Ball.cpp.obj -c "D:\Program Files\GitHub Projects\Pong\Ball.cpp"
 
 CMakeFiles/Pong.dir/Ball.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Pong.dir/Ball.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Program Files\JetBrains\Projekty\Pong\Ball.cpp" > CMakeFiles\Pong.dir\Ball.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Program Files\GitHub Projects\Pong\Ball.cpp" > CMakeFiles\Pong.dir\Ball.cpp.i
 
 CMakeFiles/Pong.dir/Ball.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Pong.dir/Ball.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Program Files\JetBrains\Projekty\Pong\Ball.cpp" -o CMakeFiles\Pong.dir\Ball.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~2.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Program Files\GitHub Projects\Pong\Ball.cpp" -o CMakeFiles\Pong.dir\Ball.cpp.s
 
 # Object files for target Pong
 Pong_OBJECTS = \
@@ -125,7 +125,7 @@ Pong.exe: C:/SFML-2.5.1/lib/libFLAC.a
 Pong.exe: CMakeFiles/Pong.dir/linklibs.rsp
 Pong.exe: CMakeFiles/Pong.dir/objects1.rsp
 Pong.exe: CMakeFiles/Pong.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Program Files\JetBrains\Projekty\Pong\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Pong.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Program Files\GitHub Projects\Pong\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Pong.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Pong.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -138,6 +138,6 @@ CMakeFiles/Pong.dir/clean:
 .PHONY : CMakeFiles/Pong.dir/clean
 
 CMakeFiles/Pong.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\Program Files\JetBrains\Projekty\Pong" "D:\Program Files\JetBrains\Projekty\Pong" "D:\Program Files\JetBrains\Projekty\Pong\cmake-build-debug" "D:\Program Files\JetBrains\Projekty\Pong\cmake-build-debug" "D:\Program Files\JetBrains\Projekty\Pong\cmake-build-debug\CMakeFiles\Pong.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\Program Files\GitHub Projects\Pong" "D:\Program Files\GitHub Projects\Pong" "D:\Program Files\GitHub Projects\Pong\cmake-build-debug" "D:\Program Files\GitHub Projects\Pong\cmake-build-debug" "D:\Program Files\GitHub Projects\Pong\cmake-build-debug\CMakeFiles\Pong.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Pong.dir/depend
 

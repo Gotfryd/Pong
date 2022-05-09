@@ -1,4 +1,4 @@
-# Install script for directory: D:/Program Files/JetBrains/Projekty/Pong
+# Install script for directory: D:/Program Files/GitHub Projects/Pong
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Program Files/JetBrains/Projekty/Pong/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Program Files/GitHub Projects/Pong/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

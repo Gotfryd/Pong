@@ -850,15 +850,15 @@ SFML/Config.hpp
 
 C:/SFML-2.5.1/include/SFML/Window/WindowStyle.hpp
 
-D:/Program Files/JetBrains/Projekty/Pong/Ball.h
+D:/Program Files/GitHub Projects/Pong/Ball.h
 SFML/Graphics.hpp
 -
 
-D:/Program Files/JetBrains/Projekty/Pong/Paddle.h
+D:/Program Files/GitHub Projects/Pong/Paddle.h
 SFML/Graphics.hpp
 -
 
-D:/Program Files/JetBrains/Projekty/Pong/main.cpp
+D:/Program Files/GitHub Projects/Pong/main.cpp
 iostream
 -
 sstream
@@ -868,7 +868,7 @@ SFML/Graphics.hpp
 SFML/Audio.hpp
 -
 Paddle.h
-D:/Program Files/JetBrains/Projekty/Pong/Paddle.h
+D:/Program Files/GitHub Projects/Pong/Paddle.h
 Ball.h
-D:/Program Files/JetBrains/Projekty/Pong/Ball.h
+D:/Program Files/GitHub Projects/Pong/Ball.h
 

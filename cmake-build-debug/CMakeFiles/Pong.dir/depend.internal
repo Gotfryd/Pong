@@ -76,8 +76,8 @@ CMakeFiles/Pong.dir/Ball.cpp.obj
  C:/SFML-2.5.1/include/SFML/Window/Window.hpp
  C:/SFML-2.5.1/include/SFML/Window/WindowHandle.hpp
  C:/SFML-2.5.1/include/SFML/Window/WindowStyle.hpp
- D:/Program Files/JetBrains/Projekty/Pong/Ball.cpp
- D:/Program Files/JetBrains/Projekty/Pong/Ball.h
+ D:/Program Files/GitHub Projects/Pong/Ball.cpp
+ D:/Program Files/GitHub Projects/Pong/Ball.h
 CMakeFiles/Pong.dir/Paddle.cpp.obj
  C:/SFML-2.5.1/include/SFML/Config.hpp
  C:/SFML-2.5.1/include/SFML/Graphics.hpp
@@ -153,8 +153,8 @@ CMakeFiles/Pong.dir/Paddle.cpp.obj
  C:/SFML-2.5.1/include/SFML/Window/Window.hpp
  C:/SFML-2.5.1/include/SFML/Window/WindowHandle.hpp
  C:/SFML-2.5.1/include/SFML/Window/WindowStyle.hpp
- D:/Program Files/JetBrains/Projekty/Pong/Paddle.cpp
- D:/Program Files/JetBrains/Projekty/Pong/Paddle.h
+ D:/Program Files/GitHub Projects/Pong/Paddle.cpp
+ D:/Program Files/GitHub Projects/Pong/Paddle.h
 CMakeFiles/Pong.dir/main.cpp.obj
  C:/SFML-2.5.1/include/SFML/Audio.hpp
  C:/SFML-2.5.1/include/SFML/Audio/AlResource.hpp
@@ -247,6 +247,6 @@ CMakeFiles/Pong.dir/main.cpp.obj
  C:/SFML-2.5.1/include/SFML/Window/Window.hpp
  C:/SFML-2.5.1/include/SFML/Window/WindowHandle.hpp
  C:/SFML-2.5.1/include/SFML/Window/WindowStyle.hpp
- D:/Program Files/JetBrains/Projekty/Pong/Ball.h
- D:/Program Files/JetBrains/Projekty/Pong/Paddle.h
- D:/Program Files/JetBrains/Projekty/Pong/main.cpp
+ D:/Program Files/GitHub Projects/Pong/Ball.h
+ D:/Program Files/GitHub Projects/Pong/Paddle.h
+ D:/Program Files/GitHub Projects/Pong/main.cpp

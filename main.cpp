@@ -21,7 +21,7 @@ int main() {
     Ball pilka (windowWidth/2, 1);
 
     Font czcionka;
-    czcionka.loadFromFile("calibri.ttf"); //zaladowanie czcionki "calibri.ttf"
+    czcionka.loadFromFile("../calibri.ttf"); //zaladowanie czcionki "calibri.ttf"
 
     Text hud; //stworzenie i ustawienie parametrow napisu podczas rozgrywki
     hud.setFont(czcionka);
@@ -36,13 +36,13 @@ int main() {
 
 
     sf::SoundBuffer BounceSoundbuffer; //stworzenie, zaladowanie, i przyciszenie dzwieku odbicia
-    BounceSoundbuffer.loadFromFile("Bounce.wav");
+    BounceSoundbuffer.loadFromFile("../Bounce.wav");
     sf::Sound BounceSound;
     BounceSound.setVolume(25);
     BounceSound.setBuffer(BounceSoundbuffer);
 
     sf::SoundBuffer MissSoundbuffer; //stworzenie, zaladowanie, i przyciszenie dzwieku skucia
-    MissSoundbuffer.loadFromFile("Miss.wav");
+    MissSoundbuffer.loadFromFile("../Miss.wav");
     sf::Sound MissSound;
     MissSound.setVolume(25);
     MissSound.setBuffer(MissSoundbuffer);

@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Program Files/JetBrains/Projekty/Pong/Ball.cpp" "D:/Program Files/JetBrains/Projekty/Pong/cmake-build-debug/CMakeFiles/Pong.dir/Ball.cpp.obj"
-  "D:/Program Files/JetBrains/Projekty/Pong/Paddle.cpp" "D:/Program Files/JetBrains/Projekty/Pong/cmake-build-debug/CMakeFiles/Pong.dir/Paddle.cpp.obj"
-  "D:/Program Files/JetBrains/Projekty/Pong/main.cpp" "D:/Program Files/JetBrains/Projekty/Pong/cmake-build-debug/CMakeFiles/Pong.dir/main.cpp.obj"
+  "D:/Program Files/GitHub Projects/Pong/Ball.cpp" "D:/Program Files/GitHub Projects/Pong/cmake-build-debug/CMakeFiles/Pong.dir/Ball.cpp.obj"
+  "D:/Program Files/GitHub Projects/Pong/Paddle.cpp" "D:/Program Files/GitHub Projects/Pong/cmake-build-debug/CMakeFiles/Pong.dir/Paddle.cpp.obj"
+  "D:/Program Files/GitHub Projects/Pong/main.cpp" "D:/Program Files/GitHub Projects/Pong/cmake-build-debug/CMakeFiles/Pong.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
